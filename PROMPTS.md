@@ -6,7 +6,7 @@ AI was used selectively to refine ideas, improve clarity, and accelerate specifi
 
 ---
 
-## 1. Product Ideat
+## 1. Product Idea
 
 AI was used to refine the concept of building a structured interview coaching application, focusing on making it feel like a real product rather than a generic chatbot. This included shaping the idea of role-based interviews, question progression, and session-based state.
 
